@@ -1,0 +1,60 @@
+@option=4,answer=2/3,score=5,level=5
+The First Question:
+long n = 99999;
+int n = 999999L;
+long n = 9999L;
+double n = 999999;
+@option=4,answer=1/2,score=5,level=4
+The Second Question:
+int[] arry = new int[100];
+int[3] arry = {1,2,3};
+int[] arry = new int[]{1,2,3};
+int[][] arry = new int[3][];
+@option=4,answer=1/2,score=5,level=1
+The Thirden Question:
+int[] arry = new int[100];
+int[3] arry = {1,2,3};
+int[] arry = new int[]{1,2,3};
+int[][] arry = new int[3][];
+@option=4,answer=1/2,score=5,level=2
+The Fourth Question:
+int[] arry = new int[100];
+int[3] arry = {1,2,3};
+int[] arry = new int[]{1,2,3};
+int[][] arry = new int[3][];
+@option=4,answer=1/2,score=5,level=3
+The Five Question:
+int[] arry = new int[100];
+int[3] arry = {1,2,3};
+int[] arry = new int[]{1,2,3};
+int[][] arry = new int[3][];
+@option=4,answer=1/2,score=5,level=6
+The Six Question:
+int[] arry = new int[100];
+int[3] arry = {1,2,3};
+int[] arry = new int[]{1,2,3};
+int[][] arry = new int[3][];
+@option=4,answer=1/2,score=5,level=7
+The Seven Question:
+int[] arry = new int[100];
+int[3] arry = {1,2,3};
+int[] arry = new int[]{1,2,3};
+int[][] arry = new int[3][];
+@option=4,answer=1/2,score=5,level=8
+The Eight Question:
+int[] arry = new int[100];
+int[3] arry = {1,2,3};
+int[] arry = new int[]{1,2,3};
+int[][] arry = new int[3][];
+@option=4,answer=1/2,score=5,level=9
+The Nine Question:
+int[] arry = new int[100];
+int[3] arry = {1,2,3};
+int[] arry = new int[]{1,2,3};
+int[][] arry = new int[3][];
+@option=4,answer=1/2,score=5,level=10
+The Ten Question:
+int[] arry = new int[100];
+int[3] arry = {1,2,3};
+int[] arry = new int[]{1,2,3};
+int[][] arry = new int[3][];
